@@ -1,0 +1,2 @@
+> key-valuedb作为访问速度最快的数据库系统,而spaceid是时空唯一性的id。
+如果用spaceid来作为key-valuedb的key，将会是极致高效的时空访问系统。
